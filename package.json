@@ -1,0 +1,23 @@
+{
+  "name": "js-qlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvil/js-qlib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvil/js-qlib/issues"
+  },
+  "homepage": "https://github.com/qvil/js-qlib#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
